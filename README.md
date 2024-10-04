@@ -16,12 +16,6 @@ python-dotenv
 Installation
 Clone the repository:
 
-##git clone https://github.com/yourusername/ai-powered-sql-chatbot.git
-##cd ai-powered-sql-chatbot
-##Set up a virtual environment (optional but recommended):
-
-
-
 python -m venv venv
 source 'venv/bin/activate'   # On Windows use `venv\Scripts\activate`
 Install the required packages:
