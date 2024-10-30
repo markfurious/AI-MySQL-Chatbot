@@ -26,7 +26,7 @@ To run this application locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/sql-chatbot.git
+   git clone https://github.com/markfurious/AI-MySQL-Chatbot.git
    cd sql-chatbot
    ```
 
