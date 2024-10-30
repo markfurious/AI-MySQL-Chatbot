@@ -1,6 +1,5 @@
 Here’s a complete `README.md` file that includes all relevant information about your Streamlit SQL chatbot application, as well as instructions, features, and how to set it up:
 
-```markdown
 # Streamlit SQL Chatbot
 
 Welcome to the **Streamlit SQL Chatbot**! This application allows users to interact with a SQLite database using natural language questions, generating SQL queries based on user input.
@@ -92,7 +91,7 @@ If you encounter any issues, please open an issue in the repository.
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
+
 
 ### Notes:
 - Replace `yourusername` in the clone URL with your actual GitHub username.
